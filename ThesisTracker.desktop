@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=논문 시간 트래커
+Comment=논문 작성 시간 관리 대시보드를 실행합니다
+Exec=bash -c "cd /home/garund9/projects/thesis-input-hours && xdg-open http://localhost:5173 && npm run dev"
+Icon=utilities-system-monitor
+Terminal=true
+Type=Application
+Categories=Utility;Education;
